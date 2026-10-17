@@ -1,0 +1,15 @@
+{
+  "uuid": "boosteroid-checker@pask.com",
+  "name": "Boosteroid MD5 Checker",
+  "description": "Checks for updates to the Boosteroid MD5 file every 12 hours.",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51"
+  ],
+  "url": "https://github.com/djpask/boosteroid-gnome-checker"
+}
